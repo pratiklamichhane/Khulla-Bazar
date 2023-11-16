@@ -13,7 +13,4 @@ def index(request):
         'items': items,
     })
 
-@login_required
 
-def delete(request , pk):
-    item = get_object_or_404(item, pk=pk, created_by=request.user)
