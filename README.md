@@ -8,7 +8,10 @@ Installation
 Usage
 Contributing
 License
-Features
+
+
+
+Features:
 User Authentication: Users can sign up, log in, and manage their accounts.
 
 Product Listings: Sellers can create, update, and delete product listings, including details such as product name, description, price, and images.
@@ -21,6 +24,8 @@ Messaging System: Buyers and sellers can communicate via an integrated messaging
 
 User Profile: Users have their profile pages, displaying their listings, reviews, and other information.
 
+
+
 Technologies Used
 Django: The web framework used to build the project.
 
@@ -30,10 +35,12 @@ SQLite: The default database system for storing data.
 
 Django Channels: For real-time messaging.
 
+
+
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/khulla-bazar.git
+git clone https://github.com/pratiklaichhane/khulla-bazar.git
 Create a virtual environment (optional but recommended):
 
 python -m venv venv
